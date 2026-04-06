@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cc-sbom-preview/static/css/main.96dea80d.css",
-    "main.js": "/cc-sbom-preview/static/js/main.9eb10e33.js",
+    "main.js": "/cc-sbom-preview/static/js/main.e0977499.js",
     "static/js/453.d1e19e5d.chunk.js": "/cc-sbom-preview/static/js/453.d1e19e5d.chunk.js",
     "static/media/Pretendard-Black.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Black.subset.caa29603c364423e73de.woff2",
     "static/media/Pretendard-ExtraBold.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-ExtraBold.subset.ef8691b3175c491831c9.woff2",
@@ -16,11 +16,11 @@
     "static/media/CySecuLab.png": "/cc-sbom-preview/static/media/CySecuLab.b8d3b4ccb99cbfa6195c.png",
     "index.html": "/cc-sbom-preview/index.html",
     "main.96dea80d.css.map": "/cc-sbom-preview/static/css/main.96dea80d.css.map",
-    "main.9eb10e33.js.map": "/cc-sbom-preview/static/js/main.9eb10e33.js.map",
+    "main.e0977499.js.map": "/cc-sbom-preview/static/js/main.e0977499.js.map",
     "453.d1e19e5d.chunk.js.map": "/cc-sbom-preview/static/js/453.d1e19e5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96dea80d.css",
-    "static/js/main.9eb10e33.js"
+    "static/js/main.e0977499.js"
   ]
 }
