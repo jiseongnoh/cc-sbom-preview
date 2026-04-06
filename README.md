@@ -1,1 +1,0 @@
-# CC-SBOM UI Preview

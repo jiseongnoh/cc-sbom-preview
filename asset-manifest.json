@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cc-sbom-preview/static/css/main.96dea80d.css",
+    "main.js": "/cc-sbom-preview/static/js/main.9eb10e33.js",
+    "static/js/453.d1e19e5d.chunk.js": "/cc-sbom-preview/static/js/453.d1e19e5d.chunk.js",
+    "static/media/Pretendard-Black.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Black.subset.caa29603c364423e73de.woff2",
+    "static/media/Pretendard-ExtraBold.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-ExtraBold.subset.ef8691b3175c491831c9.woff2",
+    "static/media/Pretendard-Bold.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Bold.subset.a5ccc8f78b68ba6de99a.woff2",
+    "static/media/Pretendard-SemiBold.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-SemiBold.subset.c50116c0682fbf0defde.woff2",
+    "static/media/Pretendard-Medium.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Medium.subset.f9eb757e995004861d66.woff2",
+    "static/media/Pretendard-Light.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Light.subset.30ed3bc57424fa8d166f.woff2",
+    "static/media/Pretendard-Regular.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Regular.subset.e0a855e501f761b58aa8.woff2",
+    "static/media/Pretendard-ExtraLight.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-ExtraLight.subset.efbe2ffcea89d7a5bcf6.woff2",
+    "static/media/Pretendard-Thin.subset.woff2": "/cc-sbom-preview/static/media/Pretendard-Thin.subset.24952e0aab525b73031b.woff2",
+    "static/media/logo.png": "/cc-sbom-preview/static/media/logo.5b51787973264dc18358.png",
+    "static/media/CySecuLab.png": "/cc-sbom-preview/static/media/CySecuLab.b8d3b4ccb99cbfa6195c.png",
+    "index.html": "/cc-sbom-preview/index.html",
+    "main.96dea80d.css.map": "/cc-sbom-preview/static/css/main.96dea80d.css.map",
+    "main.9eb10e33.js.map": "/cc-sbom-preview/static/js/main.9eb10e33.js.map",
+    "453.d1e19e5d.chunk.js.map": "/cc-sbom-preview/static/js/453.d1e19e5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96dea80d.css",
+    "static/js/main.9eb10e33.js"
+  ]
+}
